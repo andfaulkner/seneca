@@ -429,7 +429,6 @@ function make_seneca( initial_options ) {
     console_log('\nSeneca Options ('+root.id+'): before plugins\n'+
                 '===\n')
     console_log(util.inspect(so,{depth:null}))
-    console_log('')
   }
 
 
